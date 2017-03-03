@@ -1,0 +1,5 @@
+﻿body#layout:before {content: 'Arleth-desz.blogspot.com';font-family: 'Open sans', sans-serif;padding: 5px 6px;font-size: 20px;color: #fff;background: #333;position: absolute;top: 8%;}
+body#layout #menu-nav ul,body#layout ul#menu-footer {display: none;}
+body#layout #header-wrapper {max-width: 280px;}
+body#layout #post-wrapper {float: left;width: 543px;}
+body#layout #sidebar-wrapper {float: left;}
